@@ -1,19 +1,25 @@
 # Weather_Notification
+### Requirements
+Installation of pywin32
+
 ### Steps to Use:
 1. Install the required libraries:
    
 ```
  pip install win10toast requests
 ```
-2. Run the script to get a weather notification.
-
 If it causes issues try:
-
-1. Install the required libraries:
    
 ```
  pip install win10toast-persist requests
 ```
+or 
+   
+```
+ pip install pywin32
+ pip install win10toast-persist requests
+```
+
 2. Run the script to get a weather notification.
 
 ### Note
@@ -31,5 +37,7 @@ If it causes issues try:
 - You will see a default key named something like "default" under "API keys."
 - If you don’t see one, click "Create Key" and give it a name (e.g., "MyWeatherApp"), and save.
 
-### Documentation
+### Documentation of OpenWeatherMap Current Weather
 [https://openweathermap.org/current](url)
+### Win10Toast
+[https://pypi.org/project/win10toast/](url)
