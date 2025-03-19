@@ -1,4 +1,6 @@
 # Weather_Notification
+<video src='https://github.com/khushi-narang/Weather_Notification/blob/main/Recording%202025-03-19%20095258.mp4' width=180/>
+
 ### Requirements
 Installation of pywin32
 
